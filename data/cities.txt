@@ -1,0 +1,6 @@
+london
+ankara
+istanbul
+newyork
+dublin
+berlin
